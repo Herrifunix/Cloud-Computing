@@ -1,0 +1,8 @@
+subscription_id      = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+
+resource_group_name  = "rg-tp-cloud"
+location             = "francecentral"
+vm_size              = "Standard_D2s_v3"
+admin_username       = "azureuser"
+storage_account_name = "stcloudXXXXXXXX"
+container_name       = "staticfiles"
