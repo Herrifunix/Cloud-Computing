@@ -32,7 +32,7 @@ L'application expose une API REST permettant d'effectuer des operations CRUD (Cr
 
 ### Note sur les captures d'ecran
 
-Toutes les captures d'ecran mentionnees dans ce rapport sont fournies dans un dossier separe dedie aux preuves visuelles (dossier `captures/`).
+Toutes les captures d'ecran mentionnees dans ce rapport sont fournies dans un dossier separe dedie aux preuves visuelles (dossier `screenshots/`).
 
 ---
 
