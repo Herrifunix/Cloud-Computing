@@ -30,6 +30,10 @@ L'objectif de ce TP est de deployer automatiquement une application web sur Azur
 
 L'application expose une API REST permettant d'effectuer des operations CRUD (Create, Read, Update, Delete) sur des fichiers stockes dans Azure Blob Storage.
 
+### Note sur les captures d'ecran
+
+Toutes les captures d'ecran mentionnees dans ce rapport sont fournies dans un dossier separe dedie aux preuves visuelles (dossier `captures/`).
+
 ---
 
 ## 2. Architecture du projet

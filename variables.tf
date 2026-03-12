@@ -6,7 +6,7 @@ variable "subscription_id" {
 variable "resource_group_name" {
   description = "Nom du Resource Group"
   type        = string
-  default     = "rg-tp-cloud"
+  default     = "rg-tp-cloud-pierre-zhou-2026"
 }
 
 variable "location" {
